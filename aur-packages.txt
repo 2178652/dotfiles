@@ -1,3 +1,4 @@
+google-chrome
 intellij-idea-ultimate-edition
 webstorm
 webstorm-jre

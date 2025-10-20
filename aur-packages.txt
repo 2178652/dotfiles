@@ -1,0 +1,7 @@
+intellij-idea-ultimate-edition
+webstorm
+webstorm-jre
+pycharm
+phpstorm
+phpstorm-jre
+postman-bin

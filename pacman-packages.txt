@@ -1,0 +1,59 @@
+# Core utilities
+base-devel
+git
+wget
+curl
+unzip
+zip
+tar
+rsync
+openssh
+
+# Shell & terminal
+zsh
+zsh-completions
+alacritty
+eza
+fastfetch
+lazygit
+btop
+
+# Editors & dev tools
+neovim
+code
+man-db
+man-pages
+python
+python-pip
+nodejs
+npm
+
+# Fonts & theming
+ttf-dejavu
+ttf-fira-code
+noto-fonts
+noto-fonts-emoji
+fontconfig
+
+# Desktop / WM
+hyprland
+waybar
+mako
+rofi
+dunst
+copyq   # clipboard manager
+
+# Input methods (if needed)
+fcitx5
+fcitx5-configtool
+fcitx5-mozc
+
+# Multimedia
+pavucontrol
+pipewire
+pipewire-pulse
+alsa-utils
+
+# File management
+nautilus
+xournalpp

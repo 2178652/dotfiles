@@ -68,4 +68,7 @@ else
   echo "❌ SSH config not found in dotfiles"
 fi
 
+# Link bakc the theme for lazyvim with the Omarchy theme
+ln -sf ~/.config/omarchy/current/theme/neovim.lua ~/.config/nvim/lua/plugins/theme.lua
+
 echo "🎉 All configs linked!"

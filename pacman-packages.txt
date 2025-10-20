@@ -20,7 +20,7 @@ btop
 
 # Editors & dev tools
 neovim
-code
+visual-studio-code-bin
 man-db
 man-pages
 python

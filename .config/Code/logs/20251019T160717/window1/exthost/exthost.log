@@ -1,0 +1,47 @@
+2025-10-19 16:07:18.966 [info] Extension host with pid 188740 started
+2025-10-19 16:07:19.015 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-19 16:07:19.225 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-19 16:07:19.233 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-19 16:07:19.288 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-19 16:07:19.433 [info] Eager extensions activated
+2025-10-19 16:07:19.434 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 16:07:19.436 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 16:07:19.453 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 16:07:37.714 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-19 16:07:37.729 [info] Extension host with pid 188740 exiting with code 0
+2025-10-19 16:07:38.989 [info] Extension host with pid 189318 started
+2025-10-19 16:07:38.989 [info] Skipping acquiring lock for /home/cgar/.config/Code/User/workspaceStorage/6576c2499086812ea0891933d5eed98e.
+2025-10-19 16:07:39.021 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-19 16:07:39.102 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-10-19 16:07:39.152 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-19 16:07:39.252 [info] Eager extensions activated
+2025-10-19 16:07:39.281 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 16:07:39.283 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 16:07:39.305 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 16:07:40.879 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-10-19 16:07:41.007 [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: false, activationEvent: 'workspaceContains:CMakeLists.txt'
+2025-10-19 16:07:41.170 [info] ExtensionService#_doActivateExtension espressif.esp-idf-extension, startup: false, activationEvent: 'workspaceContains:**/project_description.json,**/sdkconfig,**/CMakeLists.txt'
+2025-10-19 16:07:41.479 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-19 16:07:55.792 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-19 16:08:00.559 [error] CodeExpectedError: Task to terminate not found
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:586:28247
+2025-10-19 16:08:01.484 [error] CodeExpectedError: Task to terminate not found
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:586:28247
+2025-10-19 16:08:06.929 [error] CodeExpectedError: Task to terminate not found
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:586:28247
+2025-10-19 16:08:52.834 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-19 16:08:52.850 [error] An error occurred when deactivating the extension 'espressif.esp-idf-extension':
+2025-10-19 16:08:52.850 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+	at Xs.dispose (/home/cgar/.vscode/extensions/espressif.esp-idf-extension-1.10.2/dist/extension.js:2:1649190)
+	at Module.Cd (/home/cgar/.vscode/extensions/espressif.esp-idf-extension-1.10.2/dist/extension.js:2:1976209)
+	at aJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+	at Array.map (<anonymous>)
+	at aJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+	at aJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+	at RP.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+	at bs (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-19 16:08:52.859 [info] Extension host with pid 189318 exiting with code 0

@@ -1,0 +1,77 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="SwitchIdeScaleAction" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="ideScale" value="0.9" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "PS-252.26199.163",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PS-252.26199.163",
+    "NextRunPlatformUpdateBuild": "PS-252.26830.95",
+    "NextRunPlatformUpdateSelfBuild": "PS-252.26199.163",
+    "NextRunPlatformUpdateVersion": "2025.2.3",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "database.notebook.setting.id": "f6833a98-3001-4d9e-80fc-c016cb781a61",
+    "enter_selection_count": "1",
+    "evlsprt3.252": "3",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "252.26199.163",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "gotit.previous.run": "PS-252.26199.163",
+    "idea.islands.enabled": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/cgar/Session_5/Multiplateforme/Api_ChatV2",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "PS-252.26199.163",
+    "tab_selection_count": "4",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true",
+    "trial.state.last.state": "EXPIRED",
+    "ts.lib.d.ts.version": "5.7.3",
+    "whats.new.last.shown.version": "2025-2.2-26199-823e0871ad9a4fc878b9a9d464bad6d1ba56552a"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/cgar/Session_5/Multiplateforme/Api_ChatV2"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;CtrlW&quot;: 1759165304809,
+    &quot;SpeedSearch&quot;: 1759417712440,
+    &quot;SearchEverywhere&quot;: 1759417709971
+  },
+  &quot;proposedTips&quot;: {
+    &quot;CtrlW&quot;: 1759165304491,
+    &quot;SearchEverywhere&quot;: 1759417709745
+  },
+  &quot;tipsOrderSeed&quot;: 1759165304440
+}</component>
+</application>

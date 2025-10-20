@@ -1,0 +1,90 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Session_5/Mobile/cours-13-2178652">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CapteurApp – MainActivity.kt [CapteurApp.app.main]" projectWorkspaceId="33ZJOev8CbggrGbYk28yoGyC7dM">
+              <option name="activationTimestamp" value="1759838927977" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.26199.169" />
+              <option name="buildTimestamp" value="1758215160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="68" y="20" width="1532" height="834" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1759838716936" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Session_5/Mobile/travail-pratique-01-charles-olivier">
+          <value>
+            <RecentProjectMetaInfo frameTitle="TP1 – EtudiantListViewModel.kt [TP1.app.main]" projectWorkspaceId="33jmcLMYoVz6mlUuwGQ0OKpqSgL">
+              <option name="activationTimestamp" value="1760114799865" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.26199.169" />
+              <option name="buildTimestamp" value="1758215160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="68" y="20" width="1532" height="834" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1759838933497" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Session_5/Mobile/exercice-03-charles-olivier">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Exercice3_Charles-Olivier – google-services.json [Exercice3_Charles-Olivier.app]" projectWorkspaceId="33QIesrkCKjjg1LkfGocp4ORzKF">
+              <option name="activationTimestamp" value="1759841116616" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.26199.169" />
+              <option name="buildTimestamp" value="1758215160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="1" y="17" width="762" height="834" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1759841117269" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Session_5/Mobile/exercice-02-charles-olivier">
+          <value>
+            <RecentProjectMetaInfo frameTitle="exercice-02-charles-olivier – BiereListAdapter.kt [Exercice02.app.main]" projectWorkspaceId="33jrDcMsnSJseH8miSJBRGx7z9T">
+              <option name="activationTimestamp" value="1759849284411" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.26199.169" />
+              <option name="buildTimestamp" value="1758215160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="68" y="20" width="762" height="834" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1759841203446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Session_5/Mobile/cours-10-2178652">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Cours – TravailFragment.kt [Cours.app.main]" opened="true" projectWorkspaceId="33jnOW0F8ANPkcWQf1zKoTj929a">
+              <option name="activationTimestamp" value="1760114801197" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.26199.169" />
+              <option name="buildTimestamp" value="1758215160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="68" y="20" width="762" height="834" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1759849303980" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Session_5/Mobile/cours-10-2178652" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Session_5/Mobile" />
+  </component>
+</application>

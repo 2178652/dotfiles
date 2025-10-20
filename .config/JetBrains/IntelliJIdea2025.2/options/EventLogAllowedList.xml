@@ -1,0 +1,10 @@
+<application>
+  <component name="EventLogAllowedList">
+    <build recorder-id="MP" build-number="IU-252.26199.169" />
+    <build recorder-id="FUS" build-number="IU-252.26199.169" />
+    <build recorder-id="MLSE" build-number="IU-252.26199.169" />
+    <build recorder-id="LLMC" build-number="IU-252.26199.169" />
+    <build recorder-id="MTHC" build-number="IU-252.26199.169" />
+    <build recorder-id="ML" build-number="IU-252.26199.169" />
+  </component>
+</application>

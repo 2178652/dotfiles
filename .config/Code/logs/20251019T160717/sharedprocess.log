@@ -1,0 +1,7 @@
+2025-10-19 16:07:22.891 [info] Getting Manifest... monokai.theme-monokai-pro-vscode
+2025-10-19 16:07:23.000 [info] Installing extension: monokai.theme-monokai-pro-vscode {"productVersion":{"version":"1.104.3","date":"2025-10-02T12:30:51.747Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/cgar/.vscode/extensions/extensions.json","path":"/home/cgar/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-10-19 16:07:24.621 [info] Extension signature verification result for monokai.theme-monokai-pro-vscode: Success. Internal Code: 0. Executed: true. Duration: 1187ms.
+2025-10-19 16:07:24.651 [info] Extracted extension to file:///home/cgar/.vscode/extensions/monokai.theme-monokai-pro-vscode-2.0.9: monokai.theme-monokai-pro-vscode
+2025-10-19 16:07:24.665 [info] Renamed to /home/cgar/.vscode/extensions/monokai.theme-monokai-pro-vscode-2.0.9
+2025-10-19 16:07:24.677 [info] Marked extension as removed monokai.theme-monokai-pro-vscode-2.0.8
+2025-10-19 16:07:24.682 [info] Extension installed successfully: monokai.theme-monokai-pro-vscode vscode-userdata:/home/cgar/.vscode/extensions/extensions.json

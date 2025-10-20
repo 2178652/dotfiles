@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
+  "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
+  "idf.hasWalkthroughBeenShown": true,
+  "idf.pythonInstallPath": "/usr/bin/python",
+  "idf.espIdfPath": "/opt/esp-idf",
+  "idf.toolsPath": "/home/cgar/.espressif",
+  "idf.gitPath": "git",
+  "workbench.secondarySideBar.defaultVisibility": "hidden"
+}

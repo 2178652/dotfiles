@@ -1,0 +1,6 @@
+2025-10-16 19:38:09.255 [info] Getting Manifest... ms-vscode.cmake-tools
+2025-10-16 19:38:09.387 [info] Installing extension: ms-vscode.cmake-tools {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/cgar/.vscode/extensions/extensions.json","path":"/home/cgar/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.3","date":"2025-10-02T12:30:51.747Z"}}
+2025-10-16 19:38:13.156 [info] Extension signature verification result for ms-vscode.cmake-tools: Success. Internal Code: 0. Executed: true. Duration: 1012ms.
+2025-10-16 19:38:13.475 [info] Extracted extension to file:///home/cgar/.vscode/extensions/ms-vscode.cmake-tools-1.21.36: ms-vscode.cmake-tools
+2025-10-16 19:38:13.539 [info] Renamed to /home/cgar/.vscode/extensions/ms-vscode.cmake-tools-1.21.36
+2025-10-16 19:38:13.563 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/cgar/.vscode/extensions/extensions.json

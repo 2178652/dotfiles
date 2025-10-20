@@ -1,0 +1,91 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "b2461810ed76edf7a2814ed8b74e9cbbbb8452fe5e6f8d9b2c936f201f42a326",
+    "telemetry.devDeviceId": "2a19c196-ce48-4dd2-b20e-220fd5c3a329",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/cgar/Session_5/ObjetConnecte/ESC_Objet_Charles"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1760904438612"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/cgar/Downloads/Jeu3D_TP1%202/Jeu3D_TP1": "__default__profile__",
+            "file:///home/cgar/Session_5/ObjetConnecte/ESC_Charles": "__default__profile__",
+            "file:///home/cgar/Session_5/ObjetConnecte/ESC_Objet_Charles": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#2c2525",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#fff1f3",
+            "background": "#2c2525",
+            "editorBackground": "#2c2525",
+            "titleBarBackground": "#211c1c",
+            "titleBarBorder": "#191515",
+            "activityBarBackground": "#191515",
+            "activityBarBorder": "#191515",
+            "sideBarBackground": "#211c1c",
+            "sideBarBorder": "#191515",
+            "statusBarBackground": "#211c1c",
+            "statusBarBorder": "#191515",
+            "statusBarNoFolderBackground": "#211c1c"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 190,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 190,
+            "auxiliaryBarWidth": 190,
+            "workspaces": {
+                "f4f157463ceb2b73a6b30acc7e721977": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "b111155b8223734e2ad0dad899bfe624": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6576c2499086812ea0891933d5eed98e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/cgar/Session_5/ObjetConnecte/ESC_Objet_Charles",
+            "backupPath": "/home/cgar/.config/Code/Backups/c4877c33a8aa6d84736ed97fda011065",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1536,
+                "height": 864
+            }
+        },
+        "openedWindows": []
+    }
+}

@@ -1,0 +1,14 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Session_5/Multiplateforme/Admin_Panel" value="true" />
+        <entry key="$USER_HOME$/Session_5/Multiplateforme/App_Electron" value="true" />
+        <entry key="$USER_HOME$/Session_5/Multiplateforme/App_Expo" value="true" />
+        <entry key="$USER_HOME$/Session_5/Multiplateforme/admin_pannel" value="true" />
+        <entry key="$USER_HOME$/Session_5/Multiplateforme/material-dashboard-react" value="true" />
+        <entry key="$USER_HOME$/Session_5/Projet/p1-a25-1-equipe-6" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

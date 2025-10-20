@@ -1,0 +1,2 @@
+# custom PhpStorm VM options (expand/override 'bin/phpstorm64.vmoptions')
+-Dawt.toolkit.name=WLToolkit

@@ -1,0 +1,4 @@
+2025-10-16 19:29:01.529 [error] #1: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/espressif/esp-idf-extension/latest - error GET Fetch timeout: 10000ms
+2025-10-16 19:29:01.530 [error] #2: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/monokai/theme-monokai-pro-vscode/latest - error GET Fetch timeout: 10000ms
+2025-10-16 19:29:02.349 [error] #4: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-azuretools/vscode-containers/latest - error GET Fetch timeout: 10000ms
+2025-10-16 19:29:02.350 [error] #5: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode-remote/remote-containers/latest - error GET Fetch timeout: 10000ms

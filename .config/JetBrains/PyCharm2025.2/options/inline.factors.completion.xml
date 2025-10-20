@@ -1,0 +1,63 @@
+<application>
+  <component name="AcceptanceRateFactors">
+    <option name="lastSelectionTime" value="1760026401103" />
+    <option name="lastShowUpTime" value="1760027327431" />
+    <selectionCounts>
+      <entry key="1" value="2.793256824932847" />
+      <entry key="24" value="2.990411656302947" />
+      <entry key="168" value="2.998624648630974" />
+    </selectionCounts>
+    <showUpCounts>
+      <entry key="1" value="18.960019252312026" />
+      <entry key="24" value="21.860505120626886" />
+      <entry key="168" value="21.9799984501111" />
+    </showUpCounts>
+  </component>
+  <component name="CompletionFinishedType">
+    <dailyDataMap>
+      <entry key="2025-10-09">
+        <DailyData>
+          <option name="explicitCancel" value="1" />
+          <option name="invalidated" value="13" />
+          <option name="other" value="5" />
+          <option name="selected" value="3" />
+        </DailyData>
+      </entry>
+    </dailyDataMap>
+  </component>
+  <component name="PrefixLength">
+    <dailyDataMap>
+      <entry key="2025-10-09">
+        <DailyData>
+          <prefixLengths>
+            <entry key="4" value="1" />
+            <entry key="5" value="1" />
+            <entry key="6" value="1" />
+          </prefixLengths>
+        </DailyData>
+      </entry>
+    </dailyDataMap>
+  </component>
+  <component name="TimeBetweenTyping">
+    <dailyDataMap>
+      <entry key="2025-10-06">
+        <DailyData>
+          <option name="count" value="978" />
+          <option name="totalTime" value="292251" />
+        </DailyData>
+      </entry>
+      <entry key="2025-10-09">
+        <DailyData>
+          <option name="count" value="864" />
+          <option name="totalTime" value="477150" />
+        </DailyData>
+      </entry>
+      <entry key="2025-10-13">
+        <DailyData>
+          <option name="count" value="695" />
+          <option name="totalTime" value="214840" />
+        </DailyData>
+      </entry>
+    </dailyDataMap>
+  </component>
+</application>

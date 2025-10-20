@@ -1,0 +1,82 @@
+{
+  "version": 3,
+  "requesterUsername": "",
+  "responderUsername": "",
+  "initialLocation": "editor",
+  "requests": [
+    {
+      "requestId": "request_b336923b-627b-4e92-aa0f-d4530c20fffd",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 39
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 40
+            },
+            "text": "make a cmake list for this buzzer class",
+            "kind": "text"
+          }
+        ],
+        "text": "make a cmake list for this buzzer class"
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "value": "You need to set up GitHub Copilot and be signed in to use Chat.",
+          "isTrusted": false,
+          "supportThemeIcons": false,
+          "supportHtml": false
+        }
+      ],
+      "responseId": "response_5176e32c-8df6-44bd-a8d1-7d8b3096b4dd",
+      "result": {},
+      "responseMarkdownInfo": [],
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "id": "setup.editor",
+        "name": "GitHub Copilot",
+        "isDefault": true,
+        "isCore": true,
+        "modes": [
+          "ask"
+        ],
+        "slashCommands": [],
+        "disambiguation": [],
+        "locations": [
+          "editor"
+        ],
+        "metadata": {
+          "helpTextPrefix": {
+            "value": "You need to set up GitHub Copilot and be signed in to use Chat.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        "description": "Ask a question.",
+        "extensionId": {
+          "value": "nullExtensionDescription",
+          "_lower": "nullextensiondescription"
+        },
+        "extensionDisplayName": "Null Extension Description",
+        "extensionPublisherId": "vscode"
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1760797042056
+    }
+  ],
+  "sessionId": "fac59b14-7ff4-4c30-8e4e-b28ab41ba856",
+  "creationDate": 1760797031591,
+  "isImported": false,
+  "lastMessageDate": 1760797042056
+}

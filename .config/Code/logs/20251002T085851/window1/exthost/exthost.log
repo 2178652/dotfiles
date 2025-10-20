@@ -1,0 +1,12 @@
+2025-10-02 08:58:54.510 [info] Extension host with pid 6087 started
+2025-10-02 08:58:54.510 [info] Skipping acquiring lock for /home/cgar/.config/Code/User/workspaceStorage/f4f157463ceb2b73a6b30acc7e721977.
+2025-10-02 08:58:54.876 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-02 08:58:54.937 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-02 08:58:55.218 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-10-02 08:58:55.263 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-02 08:58:55.472 [info] Eager extensions activated
+2025-10-02 08:58:55.514 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-02 08:58:55.528 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-02 08:58:57.908 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-10-02 11:06:44.862 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-02 11:06:44.879 [info] Extension host with pid 6087 exiting with code 0

@@ -1,0 +1,11 @@
+2025-10-19 16:07:18.298 [info] Started local extension host with pid 188740.
+2025-10-19 16:07:18.814 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-19 16:07:20.979 [info] [perf] Render performance baseline is 28ms
+2025-10-19 16:07:21.036 [info] Auto updating outdated extensions. monokai.theme-monokai-pro-vscode
+2025-10-19 16:07:21.886 [info] Auto updating outdated extensions. monokai.theme-monokai-pro-vscode
+2025-10-19 16:07:38.380 [info] Started local extension host with pid 189318.
+2025-10-19 16:07:38.690 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-19 16:07:39.247 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-19 16:07:41.018 [info] [perf] Render performance baseline is 43ms
+2025-10-19 16:08:00.561 [error] Task to terminate not found
+2025-10-19 16:08:07.016 [error] Task to terminate not found

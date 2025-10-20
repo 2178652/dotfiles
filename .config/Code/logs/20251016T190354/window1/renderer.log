@@ -1,0 +1,7 @@
+2025-10-16 19:03:55.889 [info] Started local extension host with pid 92761.
+2025-10-16 19:03:59.276 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-16 19:04:00.554 [info] [perf] Render performance baseline is 87ms
+2025-10-16 19:04:08.875 [info] Started local extension host with pid 92874.
+2025-10-16 19:04:09.239 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-16 19:04:09.538 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-16 19:04:11.457 [info] [perf] Render performance baseline is 21ms

@@ -1,0 +1,715 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="App_Electron" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2zjckg3ri1g7c" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/infra/ApiGateway.js" file-id="13406" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ApiGateway.js","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,85,10,24,102,105,108,101,84,121,112,101,115,47,106,97,118,97,83,99,114,105,112,116,46,115,118,103,18,30,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,97,118,97,83,99,114,105,112,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-88,-59,-110,-33,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/package.json" file-id="13374" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"package.json","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ui/components/MessageInput.jsx" file-id="13403" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"MessageInput.jsx","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,81,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,106,115,120,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,120,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-53,-96,-46,-94,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/ui/components/MessageList.jsx" file-id="13401" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-2982" />
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"MessageList.jsx","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,81,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,106,115,120,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,120,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-53,-96,-46,-94,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/ui/components/StatutConnexion.jsx" file-id="13400" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-119" />
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"StatutConnexion.jsx","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,81,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,106,115,120,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,120,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-53,-96,-46,-94,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/ui/components/StatutReseau.jsx" file-id="13402" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"StatutReseau.jsx","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,81,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,106,115,120,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,120,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-53,-96,-46,-94,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/ChatController.js" file-id="13404" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1218">
+              <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ChatController.js","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,85,10,24,102,105,108,101,84,121,112,101,115,47,106,97,118,97,83,99,114,105,112,116,46,115,118,103,18,30,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,97,118,97,83,99,114,105,112,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-88,-59,-110,-33,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/styles/Components.css" file-id="13411" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Components.css","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,17,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-107,-61,-84,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/styles/Channels.css" file-id="13414" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="483">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Channels.css","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,17,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-107,-61,-84,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/styles/Variables.css" file-id="13415" managing-fs="1758828562252">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="210">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Variables.css","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,17,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-107,-61,-84,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JavaScript": {
+      "usageCount": 8,
+      "lastUsed": 1759503735450
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1759417893062
+    },
+    "CSS": {
+      "usageCount": 9,
+      "lastUsed": 1759503735339
+    },
+    "JSON": {
+      "usageCount": 1,
+      "lastUsed": 1759504335509
+    },
+    "JSX": {
+      "usageCount": 4,
+      "lastUsed": 1759509110547
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="a5f834f:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/cgar/Session_5/Multiplateforme/App_Electron/package.json"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="9" lastUsage="1759503735339" />
+    </language>
+    <language id="ECMAScript 6">
+      <summary usageCount="4" lastUsage="1759509110547" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1759504335509" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="8" lastUsage="1759503735451" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1759417893065" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/domaine}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/infra}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/models}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/styles}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/ui/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="App_Electron" />
+            <item name="App_Electron" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="App_Electron" />
+              <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/electron" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="electron" />
+                <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/electron}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/app" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
+                  <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/app}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/ChatController.js" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="ChatController.js" />
+                    <item name="ChatController.js" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/domaine" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="domaine" />
+                  <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/domaine}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/domaine/ChatGateway.js" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="ChatGateway.js" />
+                    <item name="ChatGateway.js" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/hooks" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="hooks" />
+                  <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/hooks}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/infra" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="infra" />
+                  <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/infra}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/infra/ApiGateway.js" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="ApiGateway.js" />
+                    <item name="ApiGateway.js" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/infra/MockGateway.js" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="MockGateway.js" />
+                    <item name="MockGateway.js" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/models" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="models" />
+                  <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/models}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/models/Channel.js" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="Channel.js" />
+                    <item name="Channel.js" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/models/Message.js" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="Message.js" />
+                    <item name="Message.js" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/models/User.js" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="User.js" />
+                    <item name="User.js" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/styles" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="styles" />
+                  <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/styles}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/styles/Channels.css" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="Channels.css" />
+                    <item name="Channels.css" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/styles/Chat.css" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="Chat.css" />
+                    <item name="Chat.css" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/styles/Components.css" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="Components.css" />
+                    <item name="Components.css" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/styles/Layout.css" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="Layout.css" />
+                    <item name="Layout.css" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/styles/Login.css" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="Login.css" />
+                    <item name="Login.css" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/styles/Variables.css" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="Variables.css" />
+                    <item name="Variables.css" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/tests_unitaires" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tests_unitaires" />
+                  <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/tests_unitaires}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/ui" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ui" />
+                  <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/ui}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/ui/components" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="components" />
+                    <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/ui/components}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/ui/components/MessageInput.jsx" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/jsx.svg" iconPlugin="JavaScript" isLeaf="true" text="MessageInput.jsx" />
+                      <item name="MessageInput.jsx" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/ui/components/MessageList.jsx" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/jsx.svg" iconPlugin="JavaScript" isLeaf="true" text="MessageList.jsx" />
+                      <item name="MessageList.jsx" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/ui/components/StatutConnexion.jsx" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/jsx.svg" iconPlugin="JavaScript" isLeaf="true" text="StatutConnexion.jsx" />
+                      <item name="StatutConnexion.jsx" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/ui/components/StatutReseau.jsx" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/jsx.svg" iconPlugin="JavaScript" isLeaf="true" text="StatutReseau.jsx" />
+                      <item name="StatutReseau.jsx" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/ui/screens" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="screens" />
+                    <item name="dir{file:///home/cgar/Session_5/Multiplateforme/App_Electron/src/ui/screens}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/App.jsx" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/jsx.svg" iconPlugin="JavaScript" isLeaf="true" text="App.jsx" />
+                  <item name="App.jsx" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main.jsx" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/jsx.svg" iconPlugin="JavaScript" isLeaf="true" text="main.jsx" />
+                  <item name="main.jsx" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/eslint.config.js" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/eslint.svg" iconPlugin="JavaScript" isLeaf="true" text="eslint.config.js" />
+                <item name="eslint.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/forge.config.js" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="forge.config.js" />
+                <item name="forge.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/index.html" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="index.html" />
+                <item name="index.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package-lock.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package-lock.json" />
+                <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vite.config.js" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="vite.config.js" />
+                <item name="vite.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" />
+    </option>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11401000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15828982" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33033574" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.33033574" left="0.15828982" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="327" key="FileChooserDialogImpl" timestamp="1759437594678">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="327" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1759437594678" />
+    <state x="266" y="67" width="1000" height="700" key="MergeDialog.ideScale=90" timestamp="1759504455985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="266" y="67" width="1000" height="700" key="MergeDialog.ideScale=90/0.0.1536.864@0.0.1536.864" timestamp="1759504455985" />
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2.ideScale=90" timestamp="1759516846690">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2.ideScale=90/0.0.1536.864@0.0.1536.864" timestamp="1759516846690" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/ChatController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/Components.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/Variables.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/Channels.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/infra/ApiGateway.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/components/MessageList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2982" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/components/StatutConnexion.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/components/StatutReseau.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/components/MessageInput.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

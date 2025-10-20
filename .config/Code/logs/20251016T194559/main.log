@@ -1,0 +1,6 @@
+2025-10-16 19:45:59.838 [info] update#setState idle
+2025-10-16 19:46:29.839 [info] update#setState checking for updates
+2025-10-16 19:46:29.926 [info] update#setState available for download
+2025-10-19 16:00:04.179 [error] CodeWindow: renderer process gone (reason: killed, code: 9)
+2025-10-19 16:00:04.213 [info] Extension host with pid 2118 exited with code: 0, signal: unknown.
+2025-10-19 16:00:06.170 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 2117]: crashed with code 15 and reason 'killed'

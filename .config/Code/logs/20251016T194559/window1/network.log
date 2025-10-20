@@ -1,0 +1,3 @@
+2025-10-16 19:46:15.508 [error] #1: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/espressif/esp-idf-extension/latest - error GET Fetch timeout: 10000ms
+2025-10-16 19:46:15.510 [error] #2: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/monokai/theme-monokai-pro-vscode/latest - error GET Fetch timeout: 10000ms
+2025-10-16 19:46:15.515 [error] #3: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/cmake-tools/latest - error GET Fetch timeout: 10000ms

@@ -1,0 +1,63 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="06-10-2025">
+        <observation name="cancelled" value="36.0" />
+      </dailyData>
+      <dailyData date="09-10-2025">
+        <observation name="cancelled" value="85.0" />
+        <observation name="explicitSelect" value="2.0" />
+        <observation name="typedSelect" value="37.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="09-10-2025">
+        <observation name="BASIC" value="73.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="06-10-2025">
+        <observation name="count" value="36.0" />
+      </dailyData>
+      <dailyData date="09-10-2025">
+        <observation name="count" value="124.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="09-10-2025">
+        <observation name="0" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="09-10-2025">
+        <observation name="total" value="2.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="09-10-2025">
+        <observation name="9" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="09-10-2025">
+        <observation name="START_WITH" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="templatesUsage">
+      <dailyData date="09-10-2025">
+        <observation name="totalStartingWithPrefix" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="06-10-2025">
+        <observation name="average" value="167.0" />
+        <observation name="count" value="16.0" />
+      </dailyData>
+      <dailyData date="09-10-2025">
+        <observation name="average" value="274.070485" />
+        <observation name="count" value="227.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

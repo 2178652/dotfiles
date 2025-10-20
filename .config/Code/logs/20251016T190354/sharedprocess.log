@@ -1,0 +1,6 @@
+2025-10-16 19:04:23.347 [info] Getting Manifest... espressif.esp-idf-extension
+2025-10-16 19:04:23.391 [info] Installing extension: espressif.esp-idf-extension {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/cgar/.vscode/extensions/extensions.json","path":"/home/cgar/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.3","date":"2025-10-02T12:30:51.747Z"}}
+2025-10-16 19:04:27.183 [info] Extension signature verification result for espressif.esp-idf-extension: Success. Internal Code: 0. Executed: true. Duration: 671ms.
+2025-10-16 19:04:27.529 [info] Extracted extension to file:///home/cgar/.vscode/extensions/espressif.esp-idf-extension-1.10.2: espressif.esp-idf-extension
+2025-10-16 19:04:27.546 [info] Renamed to /home/cgar/.vscode/extensions/espressif.esp-idf-extension-1.10.2
+2025-10-16 19:04:27.569 [info] Extension installed successfully: espressif.esp-idf-extension vscode-userdata:/home/cgar/.vscode/extensions/extensions.json

@@ -28,6 +28,12 @@ CONFIGS=(
   yay
 )
 
+# Link bashrc
+if [ -f ~/dotfiles/.bashrc ]; then
+  rm -f ~/.bashrc
+  ln -s ~/dotfiles/.bashrc ~/.bashrc
+fi
+
 echo "🔗 Linking config folders from $DOTFILES to ~/.config..."
 
 for folder in "${CONFIGS[@]}"; do

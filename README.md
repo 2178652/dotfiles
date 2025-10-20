@@ -1,4 +1,4 @@
-# 🛠️ Charles' Dotfiles
+# Dotfiles
 
 This repository contains my personal configuration files for Linux systems (Arch-based, including Omarchy). It includes symlinks, package manifests, SSH setup, and automation scripts for a reproducible environment.
 

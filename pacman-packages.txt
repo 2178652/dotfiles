@@ -57,3 +57,7 @@ alsa-utils
 # File management
 nautilus
 xournalpp
+
+#Esp-idf
+cmake
+ninja

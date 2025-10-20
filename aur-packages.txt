@@ -5,3 +5,4 @@ pycharm
 phpstorm
 phpstorm-jre
 postman-bin
+esp-idf

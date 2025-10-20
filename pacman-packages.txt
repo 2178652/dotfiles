@@ -6,6 +6,7 @@ curl
 unzip
 zip
 tar
+keychain
 rsync
 openssh
 

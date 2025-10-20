@@ -3,8 +3,8 @@
 source ~/.local/share/omarchy/default/bash/rc
 
 #sshkey
-#eval "$(keychain --quiet id_ed25519)"
-#source ~/.keychain/$HOSTNAME-sh
+eval "$(keychain --quiet id_ed25519_bitbucket id_ed25519_github)"
+source ~/.keychain/$HOSTNAME-sh
 
 # Add your own exports, aliases, and functions here.
 #

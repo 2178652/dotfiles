@@ -24,6 +24,9 @@ fi
 chmod 600 ~/.ssh/id_ed25519_github
 chmod 600 ~/.ssh/id_ed25519_bitbucket
 
+ssh-add ~/.ssh/id_ed25519_bitbucket
+ssh-add ~/.ssh/id_ed25519_github
+
 echo "📋 Public keys:"
 echo "GitHub:"
 cat ~/.ssh/id_ed25519_github.pub

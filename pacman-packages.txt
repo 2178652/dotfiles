@@ -62,3 +62,9 @@ xournalpp
 #Esp-idf
 cmake
 ninja
+
+#Python packages
+jupyter-notebook
+python-pandas
+python-matplotlib
+python-numpy

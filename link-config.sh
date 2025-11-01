@@ -68,7 +68,65 @@ else
   echo "❌ SSH config not found in dotfiles"
 fi
 
-# Link bakc the theme for lazyvim with the Omarchy theme
+# Link back the theme for lazyvim with the Omarchy theme
 ln -sf ~/.config/omarchy/current/theme/neovim.lua ~/.config/nvim/lua/plugins/theme.lua
 
+###########################
+# btop theme linking block
+###########################
+
+# Find Omarchy active theme dir (prefers ~/.config/omarchy/themes/current if it exists)
+OM_THEME_DIR=""
+if [ -L "$HOME/.config/omarchy/themes/current" ]; then
+  OM_THEME_DIR="$(readlink -f "$HOME/.config/omarchy/themes/current")"
+elif [ -d "$HOME/.local/share/omarchy/themes" ]; then
+  # fallback: if only local share exists, try to pick first theme (user can adjust)
+  OM_THEME_DIR="$(ls -1d "$HOME/.local/share/omarchy/themes"/* 2>/dev/null | head -n1)"
+fi
+
+if [ -n "$OM_THEME_DIR" ] && [ -f "$OM_THEME_DIR/btop.theme" ]; then
+  echo "🔎 Found Omarchy btop.theme at: $OM_THEME_DIR/btop.theme"
+
+  # Ensure btop user themes dir exists
+  mkdir -p "$HOME/.config/btop/themes"
+
+  # Create symlink for btop to find (named current.theme so your btop.conf can use "current")
+  ln -snf "$OM_THEME_DIR/btop.theme" "$HOME/.config/btop/themes/current.theme"
+  echo "🔗 Linked btop theme to ~/.config/btop/themes/current.theme"
+
+  # Update ~/.config/btop/btop.conf to reference the 'current' theme name (safe sed)
+  BTOP_CONF="$HOME/.config/btop/btop.conf"
+  if [ -f "$BTOP_CONF" ]; then
+    sed -i 's/^color_theme = .*$/color_theme = "current"/' "$BTOP_CONF" || true
+    echo "✏️ Updated $BTOP_CONF to use color_theme = \"current\""
+  else
+    echo "⚠️ No btop config found at $BTOP_CONF — created ~/.config/btop/themes/current.theme only"
+  fi
+
+else
+  echo "⚠️ Could not locate Omarchy btop.theme automatically."
+  echo "   Expected file: <theme-dir>/btop.theme"
+  echo "   Checked: $HOME/.config/omarchy/themes/current and $HOME/.local/share/omarchy/themes/*"
+  echo "   If you know the path, run these commands manually:"
+  echo "     mkdir -p ~/.config/btop/themes"
+  echo "     ln -snf /path/to/omarchy/theme/btop.theme ~/.config/btop/themes/current.theme"
+fi
+
+###########################
+
+# Minimal, non-destructive block to always ensure btop reads the active Omarchy btop.theme
+# This block only creates the single symlink in ~/.config/btop/themes and does not remove or modify other config links.
+{
+  mkdir -p "$HOME/.config/btop/themes"
+
+  OM_BTOP_THEME="$HOME/.config/omarchy/current/theme/btop.theme"
+  if [ -f "$OM_BTOP_THEME" ]; then
+    ln -snf "$OM_BTOP_THEME" "$HOME/.config/btop/themes/current.theme"
+    echo "🔁 Ensured btop is linked to active Omarchy btop.theme -> ~/.config/btop/themes/current.theme"
+  else
+    echo "ℹ️ No $OM_BTOP_THEME found at runtime; skipping ensured link"
+  fi
+}
+
 echo "🎉 All configs linked!"
+

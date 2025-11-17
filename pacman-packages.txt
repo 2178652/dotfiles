@@ -68,3 +68,4 @@ jupyter-notebook
 python-pandas
 python-matplotlib
 python-numpy
+python-scikit-learn

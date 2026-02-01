@@ -1,6 +1,6 @@
 # Dotfiles
 
-This repository contains my personal configuration files for Linux systems (Arch-based, including Omarchy). It includes symlinks, package manifests, SSH setup, and automation scripts for a reproducible environment.
+This repository contains my personal configuration files for Linux systems (Arch-based Omarchy). It includes symlinks, package manifests, SSH setup, and automation scripts for a reproducible environment.
 
 ## Repo Structure
 
@@ -28,11 +28,15 @@ bash setup.sh
 This will:
 - Install official packages from `pacman-packages.txt`
 - Install AUR packages from `aur-packages.txt`
+
+### 3. Run the link script
+bash link-config.sh
+
+this will
 - Symlink all config folders into `~/.config`
 - Symlink SSH config into `~/.ssh/config`
-- Generate SSH keys for GitHub and Bitbucket (if missing)
 
-## SSH Setup
+## 4. SSH Setup
 
 After running `generate-ssh-keys.sh`, copy the public keys to your Git services:
 

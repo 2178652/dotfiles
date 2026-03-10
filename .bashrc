@@ -10,6 +10,8 @@ source ~/.keychain/$HOSTNAME-sh
 #
 # Make an alias for invoking commands you use constantly
 # alias p='python'
+# Silent ESP-IDF alias
+alias gidf='[ -f "/home/cgar/esp-idf/export.sh" ] && . "/home/cgar/esp-idf/export.sh" >/dev/null 2>&1'
 alias sail='sh $([ -f sail ] && echo sail || echo vendor/bin/sail)'
 export PATH="/home/cgar/bin:$PATH"
-export IDF_PATH=/opt/esp-idf
+export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
